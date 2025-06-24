@@ -23,7 +23,7 @@ CSS3 (Flexbox)
 **🚀 Getting Started**
 
 Clone this repo
-git clone 
+git clone - https://github.com/Narendk/Streamify_subscription_page.git
 
 Open index.html in your browser
 
